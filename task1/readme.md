@@ -3,5 +3,3 @@
 dataset can be found on below link or you can download it from this repo.
 
 ### Dataset : http://bit.ly/w-data
-
-### Sample Solution : http://bit.ly/w-data
