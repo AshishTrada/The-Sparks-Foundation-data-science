@@ -2,6 +2,4 @@
 
 you can download dataset from below link or use preload data of Sklearn library
 
-### Dataset : http://bit.ly/w-data
-
-### Sample Solution : http://bit.ly/w-data
+### Dataset : https://bit.ly/3kXTdox
